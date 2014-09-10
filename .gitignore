@@ -1,8 +1,6 @@
 ### node etc ###
 
 .DS_Store
-server/._.DS_Store
-server/db/._.DS_Store
 
 # Logs
 logs
@@ -32,4 +30,4 @@ dist/
 node_modules/
 bower_components/
 
-/db/data/main.sqlite
+main.sqlite
