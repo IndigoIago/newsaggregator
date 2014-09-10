@@ -1,6 +1,8 @@
 ### node etc ###
 
 .DS_Store
+server/._.DS_Store
+server/db/._.DS_Store
 
 # Logs
 logs
@@ -30,4 +32,8 @@ dist/
 node_modules/
 bower_components/
 
-main.sqlite
+# Stuff in Client folder
+client/.sass-cache/
+
+# Database file
+db/data/main.sqlite
