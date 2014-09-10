@@ -32,4 +32,4 @@ dist/
 node_modules/
 bower_components/
 
-db/data/main.sqlite
+/db/data/main.sqlite
